@@ -1102,4 +1102,4 @@ zigbeeManufacturer:
     deviceLabel: TS0003 Switch
     manufacturer: _TZ3000_78fgsn7i
     model: TS0003
-    deviceProfileName: three-switch-power-energy
+    deviceProfileName: three-switch
